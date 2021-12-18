@@ -23,4 +23,8 @@ def StartServer():
 def EstablishConnection():
     c, addr = s.accept()
     print("Established Connection With", addr)
+    s.close()
+
+if __name__ == '__main__':
+    Main()
 

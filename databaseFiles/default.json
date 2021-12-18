@@ -1,11 +1,9 @@
 {
-    "loginDetails": 
+    "google": 
     [
-
         {
             "username": "admin",
             "password": "123"
         }
-
     ]
 }
